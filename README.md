@@ -8,6 +8,20 @@ Currently, I'm working at **EthSwitch**, contributing to digital payment systems
 
 ---
 
+## 💼 Professional Experience
+
+**EthSwitch — Senior Software Developer**
+- Developing and maintaining digital payment software solutions.
+- Building frontend applications and backend API integrations.
+- Contributing to centralized financial institution portals and system configuration workflows.
+
+**Huawei — Software Engineer**
+- Contributed to mobile money platforms and software integration projects.
+- Supported system upgrades, production deployments, and technical troubleshooting.
+- Collaborated with development and operations teams to maintain reliable services.
+
+---
+
 ## 🚀 About Me
 
 - 💻 Software Developer passionate about full-stack development and system integration.
@@ -70,19 +84,7 @@ Currently, I'm working at **EthSwitch**, contributing to digital payment systems
 
 ---
 
-## 💼 Professional Experience
 
-**EthSwitch — Senior Software Developer**
-- Developing and maintaining digital payment software solutions.
-- Building frontend applications and backend API integrations.
-- Contributing to centralized financial institution portals and system configuration workflows.
-
-**Huawei — Software Engineer**
-- Contributed to mobile money platforms and software integration projects.
-- Supported system upgrades, production deployments, and technical troubleshooting.
-- Collaborated with development and operations teams to maintain reliable services.
-
----
 
 ## 📌 Areas of Interest
 
