@@ -98,12 +98,6 @@ Currently, I'm working at **EthSwitch**, contributing to digital payment systems
 
 ---
 
-## 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yibarek&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 🤝 Connect With Me
 
 - 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/yitbarek-wondatir-422b32252/)
