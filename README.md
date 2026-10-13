@@ -100,8 +100,6 @@ Currently, I'm working at **EthSwitch**, contributing to digital payment systems
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yibarek&show_icons=true&theme=tokyonight&hide_border=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yibarek&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
