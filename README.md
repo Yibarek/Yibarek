@@ -28,7 +28,7 @@ Currently, I'm working at **EthSwitch**, contributing to digital payment systems
 - 🏦 Working on digital payment systems and financial technology solutions.
 - 🌐 Experienced in building modern web applications and RESTful APIs.
 - 🔧 Interested in backend and frontend development.
-- 🎓 B.Sc. in Computer Science, Debre Birhan University.
+- 🎓 B.Sc. in Computer Science, Debre Birhan University. CGPA 3.95.
 - 🌱 Continuously learning and exploring new technologies.
 - 🤝 Open to collaboration on meaningful software projects.
 
